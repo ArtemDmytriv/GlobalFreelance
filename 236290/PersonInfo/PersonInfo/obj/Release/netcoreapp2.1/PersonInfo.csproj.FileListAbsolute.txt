@@ -1,0 +1,11 @@
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\bin\Release\netcoreapp2.1\PersonInfo.deps.json
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\bin\Release\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\bin\Release\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\bin\Release\netcoreapp2.1\PersonInfo.dll
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\bin\Release\netcoreapp2.1\PersonInfo.pdb
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\obj\Release\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\obj\Release\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\obj\Release\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\obj\Release\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\obj\Release\netcoreapp2.1\PersonInfo.dll
+C:\GlobalFreelance\_236290\PersonInfo\PersonInfo\obj\Release\netcoreapp2.1\PersonInfo.pdb

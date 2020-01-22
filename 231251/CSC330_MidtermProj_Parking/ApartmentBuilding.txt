@@ -1,0 +1,40 @@
+1A: Vacant: N/A
+1B: Tenant: Jake Smith
+1C: Tenant: Rick James
+1D: Tenant: Bennie Powers
+1E: Tenant: Norma Casey
+1F: Tenant: Elijah Burgess
+1G: Vacant: N/A
+1H: Tenant: Hugo Sandoval
+2A: Tenant: Marlene Wright
+2B: Tenant: Leah Park
+2C: Tenant: Spencer Bell
+2D: Vacant: N/A 
+2E: Tenant: Hattie Cruz
+2F: Tenant: Flora Moreno
+2G: Tenant: Alice Sanchez
+2H: Tenant: James Berry
+3A: Tenant: Fred Hanson
+3B: Tenant: Evan Miller
+3C: Tenant: Tami Lynch
+3D: Vacant: N/A 
+3E: Tenant: Perry Banks
+3F: Vacant: N/A 
+3G: Tenant: Hannah Saunders
+3H: Tenant: Gloria Conner
+4A: Tenant: Marcia Ball
+4B: Vacant: N/A 
+4C: Tenant: Kevin Harvey
+4D: Tenant: Dwight Garner
+4E: Tenant: Terrance Bates
+4F: Tenant: Irvin French
+4G: Vacant: N/A
+4H: Tenant: Shelia Horton
+5A: Vacant: N/A 
+5B: Vacant: N/A 
+5C: Tenant: Dewey Mullins
+5D: Tenant: Abel Perkins
+5E: Tenant: Levi Elliott
+5F: Tenant: Kenny Cooper
+5G: Tenant: Georgia Knight
+5H: Tenant: Elbert Kim

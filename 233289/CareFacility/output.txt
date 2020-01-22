@@ -1,0 +1,22 @@
+
+--Customers data--
+
+1) ----------------------------
+FullName - Jack Willson
+Was Stayed 10 days
+DailyRate = 40$ per day
+Procedures:
+Massage (back) - 20 $
+Pharmacy:
+Antibiotics - 15 $
+Anesthetist - 15 $
+TotalSum = 450 $
+2) ----------------------------
+FullName - Jason Smith
+Was Stayed 4 days
+DailyRate = 40$ per day
+Procedures:
+Cleaning - 30 $
+Pharmacy:
+Oil (massage) - 10 $
+TotalSum = 200 $

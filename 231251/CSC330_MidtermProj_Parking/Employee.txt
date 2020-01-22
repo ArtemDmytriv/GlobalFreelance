@@ -1,0 +1,31 @@
+Name: Miguel Soto
+Employee ID: MS612
+Password: sOtO
+
+Name: Chris Johnson
+Employee ID: CJ155
+Password: Mangoz22
+
+Name: David Blane
+Employee ID: DB910
+Password: MagCc6
+
+Name: Paul George
+Employee ID: PG098
+Password: Vanilla2
+
+Name: Skip Billups
+Employee ID: SB455
+Password: Yep4h
+
+Name: Hank Robbins
+Employee ID: HB251
+Password: st0cky
+
+Name: Nick Dafney
+Employee ID: ND680
+Password: 4Duck
+
+Name: Fran Deppo
+Employee ID: FD102
+Password: Defran2

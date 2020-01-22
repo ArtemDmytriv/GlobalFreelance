@@ -1,0 +1,7 @@
+C:\GlobalFreelance\231067\231067\bin\Debug\231067.exe.config
+C:\GlobalFreelance\231067\231067\bin\Debug\231067.exe
+C:\GlobalFreelance\231067\231067\bin\Debug\231067.pdb
+C:\GlobalFreelance\231067\231067\obj\Debug\231067.csprojAssemblyReference.cache
+C:\GlobalFreelance\231067\231067\obj\Debug\231067.csproj.CoreCompileInputs.cache
+C:\GlobalFreelance\231067\231067\obj\Debug\231067.exe
+C:\GlobalFreelance\231067\231067\obj\Debug\231067.pdb

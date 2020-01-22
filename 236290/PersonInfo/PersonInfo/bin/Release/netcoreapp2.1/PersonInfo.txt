@@ -1,0 +1,5 @@
+4
+Jack Daniels 28 man 32000,0 false
+Adam Smith 43 man 23000,0 true
+Lilo Levi's 25 woman 53000,0 true
+Stella Artois 28 woman 30000,0 false

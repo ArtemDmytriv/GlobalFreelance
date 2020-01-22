@@ -1,0 +1,7 @@
+﻿  func.cpp
+C:\GlobalFreelance\_236982\CalorieTracker\CalorieTracker\Meal.h(28,21): warning C4018:  '<': signed/unsigned mismatch
+C:\GlobalFreelance\_236982\CalorieTracker\CalorieTracker\Meal.h(33,21): warning C4018:  '<': signed/unsigned mismatch
+C:\GlobalFreelance\_236982\CalorieTracker\CalorieTracker\Meal.h(86,21): warning C4018:  '<': signed/unsigned mismatch
+C:\GlobalFreelance\_236982\CalorieTracker\CalorieTracker\Meal.h(91,21): warning C4018:  '<': signed/unsigned mismatch
+C:\GlobalFreelance\_236982\CalorieTracker\CalorieTracker\Meal.h(91,21): warning C4018: C:\GlobalFreelance\_236982\CalorieTracker\CalorieTracker\func.cpp(23) : warning C4715: 'UserInputInt': not all control paths return a value
+  CalorieTracker.vcxproj -> C:\GlobalFreelance\_236982\CalorieTracker\Debug\CalorieTracker.exe
